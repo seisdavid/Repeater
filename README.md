@@ -1,4 +1,5 @@
 # Repeater
+The codes here are mainly used for hypocenter/centroid-repeater identification and related analysis.
 
 1. RepeaterCatalog.xlsx: repeater catalog identified with a stress drop of 38 MPa, used for circular statistics analysis and RSI calculation.
 2. Input_sequence.xlsx: an example input for NNT and hypocenter/centroid-repeater analysis.
