@@ -8,3 +8,5 @@ The codes here are mainly used for hypocenter/centroid-repeater identification a
 5. NNT.py: code for nearest neighbor test(NNT).
 6. Circular_Statistics_Analysis_with_MC.py: code for circular statistics analysis.
 7. RSI_analysis_with_MC.py: code for rupture similarity index analysis.
+
+contact: daweigao666@163.com
